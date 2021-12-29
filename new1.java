@@ -1,2 +1,8 @@
-it is very good
+class string
+{
+
+public static void main()
+  system.out.println("hello world");
+}
+
 
